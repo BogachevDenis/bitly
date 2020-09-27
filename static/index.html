@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="static/style.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Epilogue&display=swap" rel="stylesheet">
+    <title>Botly</title>
+</head>
+<body>
+<div class = "main">
+    <div class = "description">
+        <h2>BOTLY</h2>
+        <p>With this site you can shorten long URL</p>
+        <p>>Generate random routes </p>
+        <p>>Or create your own custom route</p>
+        <p>>Let`s try it</p>
+    </div>
+
+        <div class = "createRoutes">
+            <label>Enter long URL</label>
+            <br>
+            <input id="longURL" name="longURL"><button class="buttoncreateRoutes" onclick="Create()">Shorten</button>
+            <br>
+            <button class="buttonCustomRoute" id="buttonCustomRoute" onclick="Appear()">Create custom route</button>
+            <br>
+            <div class = "customRoute" id = "customRoute">
+                <label>Enter custom route</label>
+                <br>
+                <input id="shortURL" name="longURL">
+            </div>
+            <br>
+            <button class = "info" id ="info"></button>
+        </div>
+
+</div>
+<script src="static/script.js"></script>
+</body>
+</html>

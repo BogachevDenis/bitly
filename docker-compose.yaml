@@ -1,0 +1,25 @@
+
+version: '3.4'
+
+services:
+  postgres:
+    image: postgres:10.3
+    build: ./postgres
+    restart: "always"
+    ports:
+      - "5436:5436"
+    environment:
+      - POSTGRES_DB=shorter
+      - POSTGRES_USER=admin
+      - POSTGRES_PASSWORD=12345
+    volumes:
+      - ./dbfirst:/var/lib/postgresql/data
+  server:
+    build: ./
+    restart: "always"
+    ports:
+      - '8080:8080'
+    volumes:
+      - ./:/app
+    depends_on:
+      - "postgres"

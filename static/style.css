@@ -1,0 +1,87 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Epilogue', sans-serif;
+}
+.main{
+    background:  linear-gradient(0deg, #FFA100, #FFB840, #FFCB73);
+    width: 100%;
+    height: 100vh;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+.description{
+    background: #FFA100;
+    width: 60%;
+    height: 60vh;
+    margin: 0 auto;
+    padding: 30px;
+    box-shadow: 10px 0 15px rgba(0,0,0,0.5);
+    box-sizing: border-box;
+    color: azure;
+    overflow:hidden;
+}
+.description p{
+    font-size: 32px;
+}
+.createRoutes{
+    margin: 0 auto;
+    background: #0F4DA8;
+    width: 60%;
+    height: 40vh;
+    padding: 30px;
+    box-shadow: 10px 0 15px rgba(0,0,0,0.5);
+    color: darkorange;
+    box-sizing: border-box;
+}
+.createRoutes input{
+    border: 0;
+    width: 65%;
+    height: 40px;
+    font-size: 18px;
+    margin-top: 8px;
+    margin-right: 2%;
+    border-radius: 4px;
+}
+.createRoutes label{
+    font-size: 22px;
+    color: white;
+    margin-bottom: 10px;
+}
+.buttoncreateRoutes{
+    border: 0;
+    width: 30%;
+    height: 40px;
+    font-size: 18px;
+    border-radius: 4px;
+}
+.buttoncreateRoutes:hover{
+    background: #FF9200;
+}
+.buttonCustomRoute{
+    border: 0;
+    padding: 0;
+    margin-top: 8px;
+    background: transparent;
+    color:  white;
+    font-size: 22px;
+}
+.buttonCustomRoute:hover{
+    color: #FF9200;
+}
+.customRoute{
+    display: none;
+}
+.info {
+    background: white;
+    border: 0;
+    width: 65%;
+    min-height: 40px;
+    height: auto;
+    border-radius: 4px;
+    font-size: 18px;
+    display: none;
+}
+.info:active {
+    padding: 0;
+}

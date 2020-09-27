@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5aaf0d63-b920-4e36-b5d1-e89c400fd655" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor.git/.idea/kiddy_line_processor.git.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor.git/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor.git/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/.idea/kiddy_line_processor_test.git.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/bin/kiddy_line" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/cmd/grpcserver/client/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/cmd/grpcserver/client/client.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/cmd/grpcserver/proto/github.com/protocolbuffers/protobuf/examples/go/tutorialpb/sport.pb.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/cmd/grpcserver/proto/sport.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/cmd/grpcserver/server/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/cmd/grpcserver/server/server.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/database/database.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/docker-compose.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/go.sum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/main_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/postgres/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/postgres/up.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/setting.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../send2/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../send2/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../send2/bin/kiddy_line" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../send2/cmd/grpcserver/client/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../send2/cmd/grpcserver/client/client.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../send2/cmd/grpcserver/proto/github.com/protocolbuffers/protobuf/examples/go/tutorialpb/sport.pb.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../send2/cmd/grpcserver/proto/sport.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../send2/cmd/grpcserver/server/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../send2/cmd/grpcserver/server/server.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../send2/database/database.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../send2/docker-compose.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../send2/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../send2/go.sum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../send2/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../send2/main_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../send2/postgres/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../send2/postgres/up.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../send2/setting.cfg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1hznaO58KIgg1f58Kd3hmL0wwln" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+</project>
