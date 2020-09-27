@@ -1,0 +1,22 @@
+time="2020-09-28T02:10:06+03:00" level=info msg="Config file was opened" file=config.cfg
+=== RUN   TestCheckShortUrl1
+--- PASS: TestCheckShortUrl1 (0.00s)
+=== RUN   TestCheckShortUrl2
+--- PASS: TestCheckShortUrl2 (0.00s)
+=== RUN   TestCheckLongUrl1
+--- PASS: TestCheckLongUrl1 (0.00s)
+=== RUN   TestCheckLongUrl2
+--- PASS: TestCheckLongUrl2 (0.00s)
+=== RUN   TestRandStringRunes
+--- PASS: TestRandStringRunes (0.00s)
+=== RUN   TestAddData
+--- PASS: TestAddData (0.02s)
+=== RUN   TestCreateRoute
+time="2020-09-28T02:10:06+03:00" level=info msg="InsertData to DB" data="&{https://bitly.com/ a0cz2 }"
+time="2020-09-28T02:10:06+03:00" level=info msg="InsertData to DB" data="&{http://bitly.com/ o0x20 }"
+--- PASS: TestCreateRoute (0.04s)
+=== RUN   TestRoute
+--- PASS: TestRoute (0.01s)
+PASS
+coverage: 79.7% of statements
+ok  	github.com/bitly	0.122s
